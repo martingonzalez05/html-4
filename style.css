@@ -1,0 +1,22 @@
+#contenedor{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+    }
+
+.central{
+background: floralwhite;
+background: -webkit-linear-gradient(to right);
+background: linear-gradient(to right);
+
+width: 30%;
+padding-left: 5%;
+padding-top: 5%;
+padding-bottom: 5%;
+text-align: center;
+
+border: 3px groove gold ;
+margin: auto;
+
+}
